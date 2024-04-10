@@ -1,38 +1,39 @@
 <h1 align="center">
- 💎Nitro Bot⚙
+ 💎 ▸ Nitro Bot
 </h1>
 
 ---
-## <a id="menu"></a>🔱 » Menu
+## <a id="menu"></a>🍃 ▸ Menu
 
-- [☄・Deploys](#deploys)
-- [🔰・Features](#features)
-- [🌌・Discord](https://discord.gg/ffgdqP9KTc)
-- [🎉・Setting up](#setup)
-- [⚙・Config](#config)
-## <a id="deploys"></a>☄ » Deploys
-> [Deploy with REPLIT](https://replit.com/github/Nekros-dsc/Nitro-Bot)
+- [📩・Deploy With](#deploys)
+- [⚙️・Setting up](#setup)
+- [💼・Term](#terms)
+- [🕵️‍♂️・Authors](#authors)
+- [🪄・Discord](https://discord.gg/uhq)
 
-## <a id="features"></a>🛠 » Features
+## <a id="deploys"></a>📩 〢 Deploys
+[![Deploy](https://raw.githubusercontent.com/Nekros-dsc/deploy-buttons/main/buttons/remade/replit.svg)](https://replit.com/github/Nekros-dsc/Nitro-Bot)
 
+[![Deploy](https://raw.githubusercontent.com/002-sans/deploy-buttons/main/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/Nekros-dsc/Nitro-Bot)
+
+[![Deploy](https://raw.githubusercontent.com/002-sans/deploy-buttons/main/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/Nekros-dsc/Nitro-Bot)
+
+[![Deploy](https://raw.githubusercontent.com/002-sans/deploy-buttons/main/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/Nekros-dsc/Nitro-Bot)
 
 ## <a id="setup"></a> 📁 » Setting up
 
-1. Install [Nodejs](https://nodejs.org/)
-2. Open up [config.json](https://discord.gg/ffgdqP9KTc) with notepad or some other editor
+1. Install [NodeJS](https://nodejs.org/)
+2. Install [Files](https://github.com/Nekros-dsc/Nitro-Bot/archive/refs/heads/main.zip)
+3. Complete the configuration
+5. Enjoy the tool
 
-# <a id="config"></a>⚙ » Config
+### <a id="terms"></a>💼 〢 Terms Of Usage
 
-If you want to change the config, open up [config.json](https://discord.gg/ffgdqP9KTc) and locate it at the top. There you can configure the following:
+- [x] Educational purpose only
+- [x] You can use the source code if you keep credits (in embed + in markdown), it has to be open-source
+- [x] We are NOT responsible of anything you do with our software (if its illegal)
 
-```js
-{
-"token": "Put-Token-Here",
-"allowedUserIds": ["276705058370879489","586861312231997450"],
-"color":"Put-Color",
-"clientId": "Bot-Id",
-"guildId": "Guild-Id"
-}
-```
+### <a id="authors"></a>🕵️‍♂️ 〢 Authors
+- [Sans](https://github.com/Nekros-dsc)
 
 ---
