@@ -1,0 +1,23 @@
+{
+  "name": "nitro-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nekrxs.",
+  "dependencies": {
+    "@discordjs/rest": "^2.0.1",
+    "discord.js": "^14.13.0",
+    "simple-json-db": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nekros-dsc/Nitro-Bot.git"
+  },
+  "keywords": [
+    "Nitro-Bot",
+    "Nitro",
+    "Bot"
+  ]
+}

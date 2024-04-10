@@ -1,0 +1,7 @@
+{
+"token": "Put-Token-Here",
+"allowedUserIds": ["276705058370879489"],
+"color":"Put-Color",
+"clientId": "Bot-Id",
+"guildId": "Guild-Id"
+}
