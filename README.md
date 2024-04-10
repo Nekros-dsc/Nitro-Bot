@@ -14,7 +14,7 @@
 ## <a id="deploys"></a>📩 〢 Deploys
 [![Deploy](https://raw.githubusercontent.com/Nekros-dsc/deploy-buttons/main/buttons/remade/replit.svg)](https://replit.com/github/Nekros-dsc/Nitro-Bot)
 
-[![Deploy](https://raw.githubusercontent.com/002-sans/deploy-buttons/main/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/Nekros-dsc/Nitro-Bot)
+[![Deploy](https://raw.githubusercontent.com/Nekros-dsc/deploy-buttons/main/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/Nekros-dsc/Nitro-Bot)
 
 [![Deploy](https://raw.githubusercontent.com/002-sans/deploy-buttons/main/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/Nekros-dsc/Nitro-Bot)
 
@@ -34,6 +34,6 @@
 - [x] We are NOT responsible of anything you do with our software (if its illegal)
 
 ### <a id="authors"></a>🕵️‍♂️ 〢 Authors
-- [Sans](https://github.com/Nekros-dsc)
+- [Nekros](https://github.com/Nekros-dsc)
 
 ---
