@@ -1,9 +1,9 @@
 <h1 align="center">
- 💎 ▸ Nitro Bot
+ 💎 〢 Nitro Bot
 </h1>
 
 ---
-## <a id="menu"></a>🍃 ▸ Menu
+## <a id="menu"></a>🍃 〢 Menu
 
 - [📩・Deploy With](#deploys)
 - [⚙️・Setting up](#setup)
@@ -20,7 +20,7 @@
 
 [![Deploy](https://raw.githubusercontent.com/Nekros-dsc/deploy-buttons/main/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/Nekros-dsc/Nitro-Bot)
 
-## <a id="setup"></a> 📁 » Setting up
+## <a id="setup"></a> 📁 〢 Setting up
 
 1. Install [NodeJS](https://nodejs.org/)
 2. Install [Files](https://github.com/Nekros-dsc/Nitro-Bot/archive/refs/heads/main.zip)
