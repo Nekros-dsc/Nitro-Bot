@@ -29,9 +29,9 @@
 
 ### <a id="terms"></a>💼 〢 Terms Of Usage
 
-- [x] Educational purpose only
-- [x] You can use the source code if you keep credits (in embed + in markdown), it has to be open-source
-- [x] We are NOT responsible of anything you do with our software (if its illegal)
+- [x] Educational purpose only.
+- [x] You can use the source code if you keep credits (in embed + in markdown), it has to be open-source.
+- [x] We are NOT responsible of anything you do with our software (if its illegal).
 
 ### <a id="authors"></a>🕵️‍♂️ 〢 Authors
 - [Nekros](https://github.com/Nekros-dsc)
